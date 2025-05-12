@@ -44,14 +44,14 @@
             //ciclo que recorre renglones
             for (int r = 0; r < ArreTridi.GetLength(1); r++)
             {
-                //ciclo que recorre las columnas
+                //ciclo que recorre las columnas prueba......      
                 for (int c = 0; c < ArreTridi.GetLength(2); c++)
                 {
-                Console.Write("ArreTridi[{0},{1},{2}]={3}  ",p,r,c, ArreTridi[p,r, c]);
+                    Console.Write("ArreTridi[{0},{1},{2}]={3}  ", p, r, c, ArreTridi[p, r, c]);
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("\n");
+            Console.WriteLine("\n", holiiii);
         }
 
     }
