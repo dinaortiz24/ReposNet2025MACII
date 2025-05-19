@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ManejoFiles1/1.0.0": {
+        "dependencies": {
+          "ClasesGeneralesFiles": "1.0.0"
+        },
+        "runtime": {
+          "ManejoFiles1.dll": {}
+        }
+      },
+      "ClasesGeneralesFiles/1.0.0": {
+        "runtime": {
+          "ClasesGeneralesFiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManejoFiles1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClasesGeneralesFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

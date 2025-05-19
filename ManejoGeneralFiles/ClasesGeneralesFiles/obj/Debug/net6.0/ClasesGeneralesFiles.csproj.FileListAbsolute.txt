@@ -1,0 +1,12 @@
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\bin\Debug\net6.0\ClasesGeneralesFiles.deps.json
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\bin\Debug\net6.0\ClasesGeneralesFiles.dll
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\bin\Debug\net6.0\ClasesGeneralesFiles.pdb
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.csproj.AssemblyReference.cache
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.AssemblyInfoInputs.cache
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.AssemblyInfo.cs
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.csproj.CoreCompileInputs.cache
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.dll
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\refint\ClasesGeneralesFiles.dll
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ClasesGeneralesFiles.pdb
+C:\Users\dinao\source\PortafolioNET2023MACII\FundamentosC#\ManejoGeneralFiles\ClasesGeneralesFiles\obj\Debug\net6.0\ref\ClasesGeneralesFiles.dll
